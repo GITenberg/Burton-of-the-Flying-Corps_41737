@@ -1,0 +1,38 @@
+_repo: Burton-of-the-Flying-Corps_41737
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brock, C. E. (Charles Edmund)
+    aliases:
+    - Brock, Charles Edmund
+    - Brock, Charles E. (Charles Edmund)
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '26815'
+    url: http://www.gutenberg.org/2009/agents/26815
+covers:
+- cover_type: archival
+  image_path: 41737-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+    - http://www.gutenberg.org/ebooks/author/39124
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2012-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Aerial operations -- Juvenile fiction'
+- !lcc 'PZ'
+title: Burton of the Flying Corps
+url: http://www.gutenberg.org/ebooks/41737
